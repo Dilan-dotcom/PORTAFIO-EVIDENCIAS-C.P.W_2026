@@ -50,7 +50,7 @@ Portafolio-Codificación de Páginas Web/
 
 | Sesión | Tema         | Qué aprendí                            |      Trabajo      |     Captura      |
 | :----: | :----------- | :------------------------------------- | :---------------: | :--------------: |
-|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/) | [ver](recursos/) |
+|  S01   | Git y GitHub | _(los primeros pasos avanzados para gurdar el portafolio de evidencias de manera mas profesional )_ | [ver](unidad-01/) | [ver](recursos/) |
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
