@@ -59,7 +59,7 @@ Portafolio-Codificación de Páginas Web/
 | :----: | :----------------------------- | :--------------------------------------------------- | :---------------: | :--------------: |
 |  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo | [ver](unidad-02/) | [ver](recursos/) |
 |  S03   | Estructura del documento HTML5 |  agregamos extensiones necesarias a vs studio                                                   | [ver](unidad-02/) | [ver](recursos/) |
-|  S04   | Texto, enlaces y anclas        | agregamos favicon y metadatos y metadatos personales                                                      | [ver](unidad-02/) | [ver](recursos/) |
+|  S04   | Texto, enlaces y anclas        | agregamos favicon y metadatos y metadatos personales  y tambien vimos los tipos de enlaces                                                     | [ver](unidad-02/) | [ver](recursos/) |
 |  S05   | Listas y tablas                |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S06   | Formularios y semántica        |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S07   | Multimedia                     |                                                      | [ver](unidad-02/) | [ver](recursos/) |
