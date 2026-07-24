@@ -55,15 +55,15 @@ Portafolio-Codificación de Páginas Web/
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
-| Sesión | Tema                           | Qué aprendí                                                  |                         Trabajo                         |                               Captura                               |
-| :----: | :----------------------------- | :----------------------------------------------------------- | :-----------------------------------------------------: | :-----------------------------------------------------------------: |
-|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo         | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) |           [ver](/recursos/Repositorio%20colaborativo.png)           |
-|  S03   | Estructura del documento HTML5 | estructura y etiquetas basicas                 | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) | [ver](/recursos/etiquetas.png) |
-|  S04   | Texto, enlaces y anclas        | favicon y metadatos tipos de enlaces semanticos anclas y w3c | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) |              [ver](/recursos/TIPOS%20DE%20ENLACES.png)              |
-|  S05   | Listas y tablas                |                                                              |                    [ver](recursos/)                     |                          [ver](unidad-02/)                          |
-|  S06   | Formularios y semántica        |                                                              |                    [ver](unidad-02/)                    |                          [ver](recursos/)                           |
-|  S07   | Multimedia                     |                                                              |                    [ver](unidad-02/)                    |                          [ver](recursos/)                           |
-|  S08   | SVG y repaso                   |                                                              |                    [ver](unidad-02/)                    |                          [ver](recursos/)                           |
+| Sesión | Tema                           | Qué aprendí                                                  |                         Trabajo                         |                     Captura                     |
+| :----: | :----------------------------- | :----------------------------------------------------------- | :-----------------------------------------------------: | :---------------------------------------------: |
+|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo         | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) | [ver](/recursos/Repositorio%20colaborativo.png) |
+|  S03   | Estructura del documento HTML5 | estructura y etiquetas basicas                               | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) |         [ver](/recursos/etiquetas.png)          |
+|  S04   | Texto, enlaces y anclas        | favicon y metadatos tipos de enlaces semanticos anclas y w3c | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) |    [ver](/recursos/TIPOS%20DE%20ENLACES.png)    |
+|  S05   | Listas y tablas                |                                                              |                    [ver](recursos/)                     |                [ver](unidad-02/)                |
+|  S06   | Formularios y semántica        |                                                              |                    [ver](unidad-02/)                    |                [ver](recursos/)                 |
+|  S07   | Multimedia                     |                                                              |                    [ver](unidad-02/)                    |                [ver](recursos/)                 |
+|  S08   | SVG y repaso                   |                                                              |                    [ver](unidad-02/)                    |                [ver](recursos/)                 |
 
 </details>
 
