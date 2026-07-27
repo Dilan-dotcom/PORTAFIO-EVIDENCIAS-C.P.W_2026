@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"markdown="1">
 
 # 📘 Portafolio de Evidencias
 
@@ -52,7 +52,7 @@ Portafolio-Codificación de Páginas Web/
 | :----: | :----------- | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------: | :-------------------------------------------------------: |
 |  S01   | Git y GitHub | _(los primeros pasos avanzados para gurdar el portafolio de evidencias de manera mas profesional )_ | [ver](</unidad-01-control-versiones/2.DESARROLLO-MarcoTeórico-Sesion1-2%20(1).pdf>) | [ver](/recursos/captura%20practica%20%20git%20hub%20.png) |
 
-<details>
+< markdown="1">
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
 | Sesión | Tema                           | Qué aprendí                                                  |                         Trabajo                         |                     Captura                     |
@@ -67,7 +67,8 @@ Portafolio-Codificación de Páginas Web/
 
 </details>
 
-<details>
+
+<details markdown="1">
 <summary><b>Unidad 3 · Codificación de hojas de estilo</b> (sesiones 11 a 20)</summary>
 
 | Sesión | Tema                       | Qué aprendí |      Trabajo      |     Captura      |
@@ -85,7 +86,7 @@ Portafolio-Codificación de Páginas Web/
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 4 · Páginas web responsivas</b> (sesiones 23 a 28)</summary>
 
 | Sesión | Tema                            | Qué aprendí |      Trabajo      |     Captura      |
@@ -99,7 +100,7 @@ Portafolio-Codificación de Páginas Web/
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 5 · Frameworks y librerías</b> (sesiones 31 a 36)</summary>
 
 | Sesión | Tema                          | Qué aprendí |      Trabajo      |     Captura      |
@@ -124,7 +125,7 @@ imágenes representativas de todo el módulo.)_
   <img src="recursos/ejemplo-escritorio.png" width="600" alt="Sitio personal en vista de escritorio">
 </p>
 
-<div align="center"><i>El sitio personal al cierre de la Unidad 3.</i></div>
+<div align="center"markdown="1"><i>El sitio personal al cierre de la Unidad 3.</i></div>
 
 ### El mismo sitio en dos anchos
 
@@ -168,7 +169,7 @@ _(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
 
 ---
 
-<div align="center">
+<div align="center"markdown="1">
 
 **Nombre Completo** · correo@ejemplo.com
 
