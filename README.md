@@ -53,20 +53,20 @@ Portafolio-Codificación de Páginas Web/
 |  S01   | Git y GitHub | _(los primeros pasos avanzados para gurdar el portafolio de evidencias de manera mas profesional )_ | [ver](</unidad-01-control-versiones/2.DESARROLLO-MarcoTeórico-Sesion1-2%20(1).pdf>) | [ver](/recursos/captura%20practica%20%20git%20hub%20.png) |
 
 < markdown="1">
+
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
-| Sesión | Tema                           | Qué aprendí                                                  |                         Trabajo                         |                     Captura                     |
-| :----: | :----------------------------- | :----------------------------------------------------------- | :-----------------------------------------------------: | :---------------------------------------------: |
-|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo         | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) | [ver](/recursos/Repositorio%20colaborativo.png) |
-|  S03   | Estructura del documento HTML5 | estructura y etiquetas basicas                               | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) |         [ver](/recursos/etiquetas.png)          |
-|  S04   | Texto, enlaces y anclas        | favicon y metadatos tipos de enlaces semanticos anclas y w3c | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) |    [ver](/recursos/TIPOS%20DE%20ENLACES.png)    |
-|  S05   | Listas y tablas   |                    [ver](recursos/)                     |                [ver](unidad-02/) |
-|  S06   | Formularios y semántica |         |[ver](unidad-02/)                    |[ver](recursos/)|
-|  S07   | Multimedia   |              |[ver](unidad-02/)|[ver](recursos/)|
-|  S08   | SVG y repaso |             |[ver](unidad-02/)|[ver](recursos/)|
+| Sesión | Tema                           | Qué aprendí                                                               |                         Trabajo                         |                     Captura                     |
+| :----: | :----------------------------- | :------------------------------------------------------------------------ | :-----------------------------------------------------: | :---------------------------------------------: |
+|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo                      | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) | [ver](/recursos/Repositorio%20colaborativo.png) |
+|  S03   | Estructura del documento HTML5 | estructura y etiquetas basicas                                            | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) |         [ver](/recursos/etiquetas.png)          |
+|  S04   | Texto, enlaces y anclas        | favicon y metadatos tipos de enlaces semanticos anclas y w3c              | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) |    [ver](/recursos/TIPOS%20DE%20ENLACES.png)    |
+|  S05   | Listas y tablas                | Tipo de listas y tablas completas [ver](/recursos/sesion-5-tablas%20.png) |     [ver](/unidad-02-html/sitio-demo/Horario.html)      |
+|  S06   | Formularios y semántica        |                                                                           |                    [ver](unidad-02/)                    |                [ver](recursos/)                 |
+|  S07   | Multimedia                     |                                                                           |                    [ver](unidad-02/)                    |                [ver](recursos/)                 |
+|  S08   | SVG y repaso                   |                                                                           |                    [ver](unidad-02/)                    |                [ver](recursos/)                 |
 
 </details>
-
 
 <details markdown="1">
 <summary><b>Unidad 3 · Codificación de hojas de estilo</b> (sesiones 11 a 20)</summary>
