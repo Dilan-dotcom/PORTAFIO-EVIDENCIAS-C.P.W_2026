@@ -50,7 +50,7 @@ Portafolio-Codificación de Páginas Web/
 
 | Sesión | Tema         | Qué aprendí                                                                                         |                                       Trabajo                                       |                          Captura                          |
 | :----: | :----------- | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------: | :-------------------------------------------------------: |
-|  S01   | Git y GitHub | _(los primeros pasos avanzados para gurdar el portafolio de evidencias de manera mas profesional )_ | [ver](</unidad-01-control-versiones/2.DESARROLLO-MarcoTeórico-Sesion1-2%20(1).pdf>) | [ver](/recursos/captura%20practica%20%20git%20hub%20.png) |
+|  S01   | Git y GitHub | _(los primeros pasos avanzados para gurdar el portafolio de evidencias de manera mas profesional )_ | [ver](<//unidad-01-control-versiones/2.DESARROLLO-MarcoTeórico-Sesion1-2 (1).pdf) | [ver](/recursos/captura%20practica%20%20git%20hub%20.png) |
 
 < markdown="1">
 
