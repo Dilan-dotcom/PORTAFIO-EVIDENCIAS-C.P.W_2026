@@ -5,13 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<meta charset="UTF-8">
+<meta name="description" content="Formulario de registro del sitio demo">
+<meta name="keywords content"registro formulario, sitio demo">
+<meta name="author" content="Dilan-Alvarado">
+
 <body>
     <Header>
   <!--header cabecera de la pagina y general mente se repite en todo sitio-->
   <h1>Codificacion de pagina web</h1>
   <p>Sitio de demostracion del modulo</p>
 
-<Nav>
+ <Nav>
  
   <ul>
     <li><a href="index.html">Inicio</a></li>
@@ -20,14 +25,87 @@
     <li><a href="registro.html">Registro</a></li>
   </ul>
  
-</Nav>
+ </Nav>
 </Header>
+<main>
+<h2>Formulario de Matricula</h2>
+<form action="#" method="post"></form>
+<!--form contenedor del formulario , action donde se envian el formularios method es el metodo de envio post envio de datos por el cuerpo de la solicitud-->
 
+    <fieldset> <!--contenedor de elementos del formulario-->
+        <legend>INFORMACION PERSONAL</legend><!--titulo del fieldselt-->
+    <p>
+            <label for="nombre">Nombre</label>
+            <input type="text" id="nombre" name="nombre" required ><br><br>
+    </p>
+    <p>
+            <label for="correo">Correo Electronico:</label>
+            <input type="email" id="correo" name="correo" required><br><br>
+        </p>
+            <button type="submit">Enviar Matricula </button>
+    </fieldset>
+</form>
+<fieldset>
+ <legend>Detalles de Matricula</legend>
+ <p>
+<label for="telefono">Telefono</label>
+<input type="tel" name="telefono" id="telefono"><br><br>
+</p>
+
+<p>
+<label for="fecha">Fecha de inicio</label>
+<input type="date" name="fecha" id="fecha"><br><br>
+ </p>
+
+<p>
+<label for="edad">Edad</label>
+<input type="number" name="edad" id="edad"><br><br>
+</p>
+
+</fieldset>
+
+<fieldset>
+    <legend>Modalidad</legend>
+        <input type="radio" name="Modalidad" id="Presencial" value="Presencial">
+        <label for="Presencial">  Presencial</label><br>
+
+        <input type="radio" id="virtual" name="modalidad" value="virtual">
+        <label for="virtual">Virtual</label><br>
+
+        <input type="radio" id="mixta" name="modalidad" value="mixta">
+        <label for="mixta">mixta</label><br><br>
+
+
+    <p>
+        <label for="Horario">Horario preferido</label>
+        <select name="Horario" id="Horario">
+            <option value="Mañana">Mañana</option>
+            <option value="Tarde">Tarde</option>
+            <option value="Noche">Noche</option>
+            <br><br>
+    </p>
+
+
+
+    <p>
+        <label for="comentarios">comentarios</label><br>
+        <textarea id="comentarios" name="comentarios" rows="4"></textarea><br><br>
+    </p>
+
+</fieldset>
+
+
+
+</main>
 
 
 
 <footer>
   <!--Footer pie ,creditos, contacto derechos -->
 <p>© 2026 INA.Programa de desarrollo de pagina web. (Todos los derechos reservados)</p>
+
+
+</footer>
+
 </body>
 </html>
