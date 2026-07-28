@@ -45,16 +45,16 @@
             <button type="submit">Enviar Matricula </button>
     </fieldset>
 </form>
-<fieldset>
- <legend>Detalles de Matricula</legend>
- <p>
-<label for="telefono">Telefono</label>
-<input type="tel" name="telefono" id="telefono"><br><br>
+    <fieldset>
+        <legend>Detalles de Matricula</legend>
+            <p>
+            <label for="telefono">Telefono</label>
+            <input type="tel" name="telefono" id="telefono"required pattern="[0-9]{8}" title="Ingrese un elemento de 8 digitos"><br><br>
 </p>
 
 <p>
-<label for="fecha">Fecha de inicio</label>
-<input type="date" name="fecha" id="fecha"><br><br>
+    <label for="fecha">Fecha de inicio</label>
+    <input type="date" name="fecha" id="fecha" min="16" max="120" step="1" ><br><br>
  </p>
 
 <p>
@@ -89,7 +89,7 @@
 
     <p>
         <label for="comentarios">comentarios</label><br>
-        <textarea id="comentarios" name="comentarios" rows="4"></textarea><br><br>
+        <textarea id="comentarios" name="comentarios" rows="4" maxlength="200"></textarea><br><br>
     </p>
 
 </fieldset>
