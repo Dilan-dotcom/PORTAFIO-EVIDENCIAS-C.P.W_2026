@@ -48,8 +48,8 @@ Portafolio-Codificación de Páginas Web/
 
 ### Unidad 1 · Implementación de control de versiones
 
-| Sesión | Tema         | Qué aprendí                                                                                         |                                       Trabajo                                       |                          Captura                          |
-| :----: | :----------- | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------: | :-------------------------------------------------------: |
+| Sesión | Tema         | Qué aprendí                                                                                         |                                      Trabajo                                      |                          Captura                          |
+| :----: | :----------- | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------: | :-------------------------------------------------------: |
 |  S01   | Git y GitHub | _(los primeros pasos avanzados para gurdar el portafolio de evidencias de manera mas profesional )_ | [ver](<//unidad-01-control-versiones/2.DESARROLLO-MarcoTeórico-Sesion1-2 (1).pdf) | [ver](/recursos/captura%20practica%20%20git%20hub%20.png) |
 
 < markdown="1">
@@ -63,7 +63,7 @@ Portafolio-Codificación de Páginas Web/
 |  S04   | Texto, enlaces y anclas        | favicon y metadatos tipos de enlaces semanticos anclas y w3c         | [ver](/unidad-02-html/sitio-demo/paginas/articulo.html) |    [ver](/recursos/TIPOS%20DE%20ENLACES.png)    |
 |  S05   | Listas y tablas                | Tipo de listas y tablas completas                                    |         [ver](/recursos/sesion-5-tablas%20.png)         | [ver](/unidad-02-html/sitio-demo/Horario.html)  |
 |  S06   | Formularios y semántica        | etiquetas semanticas y formularios y validacion local de formularios |     [ver](/unidad-02-html/sitio-demo/registro.html)     |    [ver](/recursos/sesion-06-semantica.png)     |
-|  S07   | Multimedia                     |   etiquetas controles audio y video formatos portadas y subtitulos                                                                   |                    [ver](/unidad-02-html/sitio-demo/galeriaa.html)                    |                [ver](/recursos/sesion%2007.png)                 |
+|  S07   | Multimedia                     | etiquetas controles audio y video formatos portadas y subtitulos     |     [ver](/unidad-02-html/sitio-demo/galeriaa.html)     |        [ver](/recursos/sesion%2007.png)         |
 |  S08   | SVG y repaso                   |                                                                      |                    [ver](unidad-02/)                    |                [ver](recursos/)                 |
 
 </details>
