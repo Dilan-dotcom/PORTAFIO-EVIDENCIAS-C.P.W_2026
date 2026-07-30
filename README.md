@@ -64,7 +64,7 @@ Portafolio-Codificación de Páginas Web/
 |  S05   | Listas y tablas                | Tipo de listas y tablas completas                                    |         [ver](/recursos/sesion-5-tablas%20.png)         | [ver](/unidad-02-html/sitio-demo/Horario.html)  |
 |  S06   | Formularios y semántica        | etiquetas semanticas y formularios y validacion local de formularios |     [ver](/unidad-02-html/sitio-demo/registro.html)     |    [ver](/recursos/sesion-06-semantica.png)     |
 |  S07   | Multimedia                     | etiquetas controles audio y video formatos portadas y subtitulos     |     [ver](/unidad-02-html/sitio-demo/galeriaa.html)     |        [ver](/recursos/sesion%2007.png)         |
-|  S08   | SVG y repaso                   |                                                                      |                    [ver](unidad-02/)                    |                [ver](recursos/)                 |
+|  S08   | SVG y repaso                   |   svg y practica de figuras realizadas en vs code                                                                   |                    [ver](/unidad-02-html/sitio-demo/insignia.html)                    |                [ver](/recursos/Captura%20de%20sesion08%20svg.png)                 |
 
 </details>
 
