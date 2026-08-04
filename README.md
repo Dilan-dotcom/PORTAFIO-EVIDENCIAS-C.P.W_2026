@@ -97,10 +97,10 @@ Proyecto propio construido de forma autónoma.
 
 | Decisión | Qué elegí | Por qué |
 |:---------|:----------|:--------|
-| Tema del sitio | simple| mas facil|
-| Atributo de la lista ordenada | | |
-| Formatos de imagen usados | | |
-| Formas del gráfico SVG | | |
+| Tema del sitio | simplecontratacion de guardas de seguridad| mas facil|
+| Atributo de la lista ordenada | ninguno| no eran necesario|
+| Formatos de imagen usados | jpg y webm| |
+| Formas del gráfico SVG | una placa de policia| va a acorde con el tema|
 
 **Cómo se ve**
 
@@ -115,7 +115,7 @@ Proyecto propio construido de forma autónoma.
 </div>
 
 **Comprobado en dos navegadores:**
-[Chrome](recursos/sp-navegador-chrome.png) · [Firefox](recursos/sp-navegador-firefox.png)
+[Fire fox](/unidad-02-html/sitio-personalcontratacion-guardas/Recursos2/fire%20fox%20.png.png) · [ edge](/unidad-02-html/sitio-personalcontratacion-guardas/Recursos2/edge.png.png)
 
 </details> 
 
