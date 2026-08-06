@@ -1,0 +1,21 @@
+*{
+margin: 80;
+padding: 60;
+box-sizing: border-box;
+}
+
+body{ font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(88, 245, 15);
+    background-color: rgb(19, 19, 19);
+}
+h1{
+    color: rgb(8, 226, 12);
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+
+}
+p{
+    color: rgb(12, 226, 15);
+    font-size: medium;
+    
+}
