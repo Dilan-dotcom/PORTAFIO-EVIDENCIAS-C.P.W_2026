@@ -1,21 +1,30 @@
 *{
-margin: 80;
-padding: 60;
+margin: 20px;
+padding: 0;
 box-sizing: border-box;
 }
 
 body{ font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(88, 245, 15);
+    color: rgb(249, 249, 248);
     background-color: rgb(19, 19, 19);
 }
 h1{
-    color: rgb(8, 226, 12);
+    color: rgb(252, 252, 252);
     font-family: 'Franklin Gothic Medium';
     text-align: center;
+}
+h2{
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
 
 }
+
+
 p{
-    color: rgb(12, 226, 15);
+    color: rgb(241, 245, 241);
     font-size: medium;
+    word-spacing: 2px;
+    padding: 10px;
     
+
 }
