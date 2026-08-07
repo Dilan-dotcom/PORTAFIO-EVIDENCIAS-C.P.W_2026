@@ -9,10 +9,54 @@
 body {
     font-family: Arial, sans-serif;
     color: #efe4e4;
-    background-color: black;
+    background-color: rgb(109, 106, 106);
 }/*esta regla define la fuente y el color del texto de la fuente del documento*/
 h1{
     color: #e9ecef;
     font-size: 32px;
     text-align: center;
+}
+/*aplicar estilos a clases*/
+.destacado{
+    background-color: #0eea0e;
+    padding: 10px 15px 15px 10px; /*aplica como las manillas del reloj :arriba - derecha-abajo-izquierda*/
+}
+
+/*aplicar estilos a identificadores o id*/
+#inicio {
+    background-color: darkorange;
+    padding: 20px ;
+}
+
+/*aplicar estilos a enlaces dentro del nav*/
+nav a {
+    color: #fff;
+    margin-right: 15px;
+    transition: color 0.3s; /*cambio suave al pasar el mouse*/
+}
+/*pseudo-clase :hover*/
+nav a:hover{
+    color: blueviolet; /*al pasar el crusor*/
+}
+
+/*pseudo clase nth-child: filas cebra en la tabla*/
+tbody tr:nth-child(even){
+    background-color: rgb(88, 88, 86);
+}
+
+/*pseudo elemento : first letter y selection*/
+article p::first-letter{
+    font-size: 32px;
+    font-weight: bold;
+    color: #c55a11;
+}
+::selection{
+    background-color: #1f4e79;
+    color: white;
+}
+
+/*agregar familia de fuentes traida de gooogle fonts*/
+body{
+    font-family: "Poppins",Arial, Helvetica, sans-serif;
+    line-height: 1.6;
 }
