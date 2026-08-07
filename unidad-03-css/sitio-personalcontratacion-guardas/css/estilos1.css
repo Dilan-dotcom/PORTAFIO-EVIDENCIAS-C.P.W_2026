@@ -51,4 +51,12 @@ color: lawngreen;
 tbody tr:nth-child(even){
     background-color: blueviolet;
 }
+p::first-letter{
+    font-size: larger;
+    font-weight: bolder;
+    color: olive;
+}
+body{
+    font-family: "Protest Guerrilla";
+}
 
