@@ -39,3 +39,14 @@ nav a{
     padding: 20px;
 }
 
+nav a {
+    color:rgb(7, 142, 221);
+    margin-right: 20px;
+    transition: color 0.3em;
+}
+
+nav a:hover{
+color: lawngreen;
+}
+
+
